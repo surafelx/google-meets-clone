@@ -21,9 +21,9 @@ const newConfiguration ={
           urls: "stun:stun.relay.metered.ca:80",
         },
         {
-          urls: "turn:global.relay.metered.ca:443?transport=tcp",
-          username: "9f34e381594b9c5b5f50e39a",
-          credential: "Fz9ZL2lv7tc+TVc1",
+          urls: "relay1.expressturn.com:3478",
+          username: "efI9AQQSV7GS864W9T",
+          credential: "xNGLAfCPH84n3FAo",
         },
     ],
   }
