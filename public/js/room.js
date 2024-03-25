@@ -21,7 +21,7 @@ const newConfiguration ={
           urls: "stun:stun.relay.metered.ca:80",
         },
         {
-          urls: "relay1.expressturn.com:3478",
+          urls: "turn:relay1.expressturn.com:3478",
           username: "efI9AQQSV7GS864W9T",
           credential: "xNGLAfCPH84n3FAo",
         },
